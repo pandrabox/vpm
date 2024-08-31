@@ -1,7 +1,7 @@
 {
     "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "id":"com.github.pandrabox.vpm",
+    "url":"https://pandrabox.github.io/vpm/index.json",
     "author":{
         "email":"developer@vrchat.com",
         "name":"VRChat",
