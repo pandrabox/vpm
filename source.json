@@ -1,7 +1,6 @@
 {
-    "name":"pandrabox vpms",
+    "name":"pandrabox",
     "id":"com.github.pandrabox.vpm",
-    "url":"https://pandrabox.github.io/vpm/index.json",
     "author":{
         "name":"pandra"
     },
