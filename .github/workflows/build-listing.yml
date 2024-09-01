@@ -1,6 +1,8 @@
 name: Build Repo Listing
 
 on: 
+  repository_dispatch:
+    types: [trigger-build-listing]
   workflow_dispatch:
   push:
     branches: main
