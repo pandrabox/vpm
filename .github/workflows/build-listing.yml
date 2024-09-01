@@ -2,7 +2,7 @@ name: Build Repo Listing
 
 on: 
   repository_dispatch:
-    types: [trigger-build-listing]
+    types: [on-demand-test]
   workflow_dispatch:
   push:
     branches: main
