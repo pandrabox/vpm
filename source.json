@@ -6,6 +6,7 @@
         "name":"pandra"
     },
     "githubRepos":[
-        "pandrabox/EmotePrefab"
+        "pandrabox/EmotePrefab",
+        "pandrabox/FlatPlus1Patch"
     ]
 }
