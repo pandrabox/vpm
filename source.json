@@ -11,6 +11,7 @@
         "pandrabox/DressingTable",
         "pandrabox/UnlimitedColor",
         "pandrabox/FlatPlus1Patch",
+        "pandrabox/AnimationParametersViewer",
         "pandrabox/PandraVase"
     ]
 }
