@@ -12,6 +12,7 @@
         "pandrabox/UnlimitedColor",
         "pandrabox/FlatPlus1Patch",
         "pandrabox/ArmatureConfigCreater",
+        "pandrabox/FlatsPlus",
         "pandrabox/PandraVase"
     ]
 }
